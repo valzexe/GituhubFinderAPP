@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubAppUser</string>
+    <string name="searchbar_hint">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="divider">|</string>
+    <string name="about">About</string>
+    <string name="more">more\n</string>
+    <string name="appBarTitle">GitUserFinder</string>
+</resources>
